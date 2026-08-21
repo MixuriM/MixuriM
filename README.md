@@ -47,10 +47,6 @@ Tenho experiência prática com:
 
 Nas horas vagas: GML Code, edição de foto/vídeo (Photoshop, Premiere, CapCut) e produção musical no FL Studio.
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MixuriM&show_icons=true&theme=default)
-
 ## 📫 Contato
 
 - LinkedIn: [linkedin.com/in/marcos-paulo-esgalha-castelli-0670ab29b](https://linkedin.com/in/marcos-paulo-esgalha-castelli-0670ab29b)
