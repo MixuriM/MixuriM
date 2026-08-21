@@ -1,4 +1,4 @@
-# Olá, eu sou o Marcos 👋
+# Olá, eu sou o Marcos 👾🕹️
 
 Estudante de Ciência da Computação na **UNISO** (2º semestre) e de Desenvolvimento de Sistemas na **Etec Fernando Prestes** (3º e último semestre, técnico).
 
