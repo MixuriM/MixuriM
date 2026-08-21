@@ -10,7 +10,7 @@ Gosto de resolver bugs e problemas, é o que mais me atrai em programação. Est
 
 **Elder Web** — aplicação web de apoio a idosos, cuidadores e familiares. Reúne os três perfis em um único sistema: o idoso acompanha sua própria rotina, o cuidador registra cuidados e medicações, e o familiar acompanha tudo à distância.
 
-É o meu TCC na Etec, atualmente em desenvolvimento. Começou como **Elder App**, um projeto mobile com protótipo funcional feito com apoio de IA — migramos para web por questão de tempo e investimento.
+É o meu TCC na Etec, atualmente em desenvolvimento. Começou como **Elder App**, um projeto mobile com protótipo funcional feito com apoio de IA, migramos para web por questão de tempo e investimento.
 
 ## 🛠️ Stack e ferramentas
 
