@@ -42,6 +42,7 @@ Tenho experiência prática com:
 - Inglês Intermediário
 - Semana da IA — Sebrae Sorocaba
 - Capacita — Sebrae Sorocaba
+- Jornada Tech - Centro Paula Souza (CPS) e Fundação Telefônica Vivo (FTV)
 
 ## 🎨 Também curto
 
@@ -49,5 +50,5 @@ Nas horas vagas: GML Code, edição de foto/vídeo (Photoshop, Premiere, CapCut)
 
 ## 📫 Contato
 
-- LinkedIn: [linkedin.com/in/marcos-paulo-esgalha-castelli-0670ab29b](https://linkedin.com/in/marcos-paulo-esgalha-castelli-0670ab29b)
+- LinkedIn: [linkedin.com/in/marcos-paulo-esgalha-castelli-0670ab29b](https://linkedin.com/in/marcos-paulo-esgalha-castelli)
 - E-mail de Contato: marcospauloesgalhacastelli@gmail.com 
