@@ -50,5 +50,5 @@ Nas horas vagas: GML Code, edição de foto/vídeo (Photoshop, Premiere, CapCut)
 
 ## 📫 Contato
 
-- LinkedIn: [linkedin.com/in/marcos-paulo-esgalha-castelli](https://linkedin.com/in/marcos-paulo-esgalha-castelli)
+- LinkedIn: [linkedin.com/in/marcos-castelli-dev](https://linkedin.com/in/marcos-castelli-dev)
 - E-mail de Contato: marcospauloesgalhacastelli@gmail.com 
