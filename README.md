@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Marcos%20Castelli&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=Backend%20%C2%B7%20Banco%20de%20Dados%20%C2%B7%20Infra%20Linux&descAlignY=64&descSize=18" alt="Marcos Castelli: Backend, Banco de Dados e Infra Linux" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:8b0000,100:dc143c&height=190&section=header&text=Marcos%20Castelli&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=Backend%20%C2%B7%20Banco%20de%20Dados%20%C2%B7%20Infra%20Linux&descAlignY=64&descSize=18" alt="Marcos Castelli: Backend, Banco de Dados e Infra Linux" width="100%">
 
 ### Olá, eu sou o Marcos 👾🕹️
 
@@ -61,10 +61,16 @@ Distro Linux para laboratórios de redes definidas por software (SDN) e virtuali
 
 ## 📚 Formação e cursos
 
-- 🎓 **Ciência da Computação**, Uniso · 2º semestre · fev/2026 a dez/2029 (previsão)
-- 🎓 **Técnico em Desenvolvimento de Sistemas**, Etec Fernando Prestes · 3º e último semestre · ago/2025 a dez/2026 (previsão)
+- 🎓 **Ciência da Computação** - Uniso · 2º semestre · fev/2026 a dez/2029 (previsão)
+- 🎓 **Técnico em Desenvolvimento de Sistemas** - Etec Fernando Prestes · 3º e último semestre · ago/2025 a dez/2026 (previsão)
 
-📜 Linux Essentials, Cisco Networking Academy (em andamento) · HTML e CSS e JavaScript, Portal Maker · Jornada Tech 2026, CPS e Fundação Telefônica Vivo · Semana da IA e Capacita, Sebrae Sorocaba · Inglês intermediário
+- 📜 **Linux Essentials** - Cisco Networking Academy (em andamento)
+- 📜 **HTML e CSS** - Portal Maker (Escola Portal Sorocaba)
+- 📜 **JavaScript** - Portal Maker (Escola Portal Sorocaba)
+- 📜 **Jornada Tech 2026** - Centro Paula Souza (CPS) e Fundação Telefônica Vivo (FTV)
+- 📜 **Semana da IA** - Sebrae Sorocaba
+- 📜 **Capacita** - Sebrae Sorocaba
+- 🌎 **Inglês** - nível intermediário
 
 ## 🎨 Fora do código
 
@@ -75,4 +81,4 @@ Edição de foto e vídeo, produção musical no FL Studio e voluntariado no Gru
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcos--castelli--dev-0A66C2?style=for-the-badge)](https://linkedin.com/in/marcos-castelli-dev)
 [![E-mail](https://img.shields.io/badge/E--mail-marcospauloesgalhacastelli%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcospauloesgalhacastelli@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" alt="" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:8b0000,100:dc143c&height=110&section=footer" alt="" width="100%">
