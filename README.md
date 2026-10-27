@@ -43,6 +43,7 @@ Tenho experiência prática com:
 - Semana da IA — Sebrae Sorocaba
 - Capacita — Sebrae Sorocaba
 - Jornada Tech - Centro Paula Souza (CPS) e Fundação Telefônica Vivo (FTV)
+- Linux Essentials - Cisco Networking Academy (em andamento)
 
 ## 🎨 Também curto
 
