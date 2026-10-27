@@ -7,8 +7,8 @@
 Estudante de Ciência da Computação na **Uniso** e de Desenvolvimento de Sistemas na **Etec Fernando Prestes**.<br>
 Foco em **backend e banco de dados**. Buscando estágio em TI em Sorocaba e região.
 
-![Buscando estágio](https://img.shields.io/badge/Buscando-Est%C3%A1gio_em_TI-2ea44f?style=for-the-badge)
-![Sorocaba](https://img.shields.io/badge/Sorocaba-SP-1f6feb?style=for-the-badge)
+<img src="https://img.shields.io/badge/Buscando-Est%C3%A1gio_em_TI-2ea44f?style=flat" alt="Buscando estágio em TI" height="28">
+<img src="https://img.shields.io/badge/Sorocaba-SP-1f6feb?style=flat" alt="Sorocaba, SP" height="28">
 
 </div>
 
@@ -20,8 +20,8 @@ O que mais me atrai em programação é resolver bugs e problemas. No Elder Web,
 
 ### 🧓 Elder Web
 
-[![Site no ar](https://img.shields.io/badge/Site_no_ar-elder--web.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://elder-web.vercel.app)
-[![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-Elder__Web-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MixuriM/Elder_Web)
+<a href="https://elder-web.vercel.app"><img src="https://img.shields.io/badge/Site_no_ar-elder--web.vercel.app-000000?style=flat&logo=vercel&logoColor=white" alt="Site no ar: elder-web.vercel.app" height="28"></a>
+<a href="https://github.com/MixuriM/Elder_Web"><img src="https://img.shields.io/badge/Reposit%C3%B3rio-Elder__Web-181717?style=flat&logo=github&logoColor=white" alt="Repositório Elder_Web" height="28"></a>
 
 Aplicação web de gestão de cuidados de idosos que reúne três perfis (idoso, cuidador e familiar) com permissões por vínculo. É o meu TCC na Etec, em uma equipe de 3 que eu lidero. Fiz o backend, o banco e a infraestrutura, e contribuí também no frontend. Integro e reviso os PRs do time.
 
@@ -38,7 +38,7 @@ Aplicação web de gestão de cuidados de idosos que reúne três perfis (idoso,
 
 ### 🐧 Nexus OS
 
-[![Repositório](https://img.shields.io/badge/Reposit%C3%B3rio-nexus--os-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MixuriM/nexus-os)
+<a href="https://github.com/MixuriM/nexus-os"><img src="https://img.shields.io/badge/Reposit%C3%B3rio-nexus--os-181717?style=flat&logo=github&logoColor=white" alt="Repositório nexus-os" height="28"></a>
 
 <img src="https://raw.githubusercontent.com/MixuriM/nexus-os/main/assets/logo-nexus-os.png" alt="Logo do Nexus OS" width="110" align="right">
 
@@ -78,7 +78,7 @@ Edição de foto e vídeo, produção musical no FL Studio e voluntariado no Gru
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcos--castelli--dev-0A66C2?style=for-the-badge)](https://linkedin.com/in/marcos-castelli-dev)
-[![E-mail](https://img.shields.io/badge/E--mail-marcospauloesgalhacastelli%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcospauloesgalhacastelli@gmail.com)
+<a href="https://linkedin.com/in/marcos-castelli-dev"><img src="https://img.shields.io/badge/LinkedIn-marcos--castelli--dev-0A66C2?style=flat" alt="LinkedIn: marcos-castelli-dev" height="28"></a>
+<a href="mailto:marcospauloesgalhacastelli@gmail.com"><img src="https://img.shields.io/badge/E--mail-marcospauloesgalhacastelli%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="E-mail: marcospauloesgalhacastelli@gmail.com" height="28"></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:8b0000,100:dc143c&height=110&section=footer" alt="" width="100%">
